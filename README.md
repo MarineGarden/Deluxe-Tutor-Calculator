@@ -1,2 +1,2 @@
 # Deluxe-Tutor-Calculator
-A smart calculator can handle math tasks.
+A smart calculator that can handle math tasks.
